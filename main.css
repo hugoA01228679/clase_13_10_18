@@ -1,0 +1,14 @@
+#nombre{
+    font-size: 30px;
+    text-align: right;
+}
+#puesto{
+    font-size: 15px;
+    text-align: right;
+}
+.body{
+    background-color: beige;
+}
+#logo{
+    text-align: left;
+}
